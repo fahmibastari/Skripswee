@@ -1,3 +1,5 @@
+*env dan vendor lom ada
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
